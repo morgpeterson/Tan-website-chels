@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://morgpeterson.github.io/Tan-website-chels/sitemap.xml
